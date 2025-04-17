@@ -1,5 +1,8 @@
 ## Test Backend
 
+### API Docs
+[API Docs](https://documenter.getpostman.com/view/32665115/2sB2cd4HvY#9da58dc3-f14d-4534-a2c2-37435931041e)
+
 ### DB Design
 ![DB Design](./public/db-design.png)
 
